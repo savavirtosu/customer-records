@@ -5,7 +5,7 @@
 * [Problem Definition](#Problem-Definition)
 * [Solution Description](#Solution-Description)
 * [Solution Results](#Solution-Results)
-* [Development & Shipping Instruction](#Development-&-Shipping-Instruction)
+* [Development and Shipping Instructions](#Development-and-Shipping-Instructions)
 
 ## Problem Definition
 
@@ -62,7 +62,7 @@ Customers within 100km range of Dublin:
 Total in range = 16
 ```
 
-## Development & Shipping Instruction
+## Development and Shipping Instructions
 
 This app is shipped using `Docker`. In order to build and run it, you must first install it first.
 
